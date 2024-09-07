@@ -101,4 +101,3 @@ Se incluye un archivo de Excel con los casos de prueba detallados y los enlaces 
 ## Cómo Ejecutar las Pruebas
 
 Para ejecutar las pruebas automatizadas, asegúrate de tener `Python`, `unittest` y `requests` instalados en tu entorno.
-
